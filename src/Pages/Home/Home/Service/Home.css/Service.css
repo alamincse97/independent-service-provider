@@ -1,0 +1,18 @@
+.service {
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+.service img {
+  border-radius: 10px 10px 0px 0px;
+}
+.service-content {
+  padding: 10px;
+}
+.service-btn {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 10px;
+}
